@@ -1,9 +1,5 @@
-# Ahmed's Bypass Tool
-
-Ahmed's Bypass Tool has been tested on **Windows 10** and is confirmed to work for users using **SteamTools** or **clean Steam files**.
-
 ## Supported Games
-This tool currently supports bypasses for the following games:
+This tool currently supports fixes for the following games:
 
 - **Red Dead Redemption 1**
 - **Grand Theft Auto IV**
